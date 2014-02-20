@@ -1,0 +1,12 @@
+{
+  "name": "adamsanderson-inline-edit",
+  "description": "Simple inline editing",
+  "version": "0.0.1",
+  "keywords": [],
+  "styles": [
+    "inline-edit.css"
+  ],
+  "dependencies": {
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  }
+}

@@ -1,4 +1,4 @@
-var events = require('event');
+var events = require('component-event');
 
 /**
  * Expose `inlineEdit`.
